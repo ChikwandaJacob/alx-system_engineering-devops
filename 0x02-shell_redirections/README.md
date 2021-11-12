@@ -40,8 +40,8 @@ Program Name | Program Description | How to Run Program
 [15-countthatword](./15-countthatword) | displays the number of lines that contain the pattern “bin” in the file /etc/passwd | ./15-countthatword
 [16-whatsnext](./16-whatsnext) | displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd | ./16-whatsnext
 [17-hidethisword](./17-hidethisword) | displays all the lines in the file /etc/passwd that do not contain the pattern “bin” | ./17-hidethisword
-[18-letteronly](./18-letteronly) | displays all lines of the file /etc/ssh/sshd_config starting with a letter. | ./18-letteronly
-[19-AZ ](./19-AZ ) | replaces all characters A and c from input to Z and e respectively. | ./19-AZ 
+[18-letteronly](./18-letteronly) | displays all lines of the file /etc/ssh/sshd_config starting with a letter | ./18-letteronly
+[19-AZ ](./19-AZ ) | replaces all characters A and c from input to Z and e respectively | ./19-AZ 
 [20-hiago](./20-hiago) | removes all letters c and C from input | ./20-hiago
 [21-reverse](./21-reverse) | reverse its input | ./21-reverse
 [22-users_and_homes](./22-users_and_homes) | displays all users and their home directories, sorted by users | ./22-users_and_homes
