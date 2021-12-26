@@ -15,4 +15,4 @@ This directory contains programs that demonstrate make use of the following linu
 <hr>
 Program Name | Program Description | How to Run Program
 -------------|---------------------|-------------------
-
+[1-for_best_school](./1-for_best_school) | displays Best School 10 times | ./1-for_best_school
