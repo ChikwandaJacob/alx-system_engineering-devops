@@ -21,11 +21,6 @@ Program Name | Program Description | How to Run Program
 [3-show_your_bash_pid_made_easy](./3-show_your_bash_pid_made_easy) | displays the PID, along with the process name, of processes whose name contain the word bash | ./3-show_your_bash_pid_made_easy
 [4-to_infinity_and_beyond](./4-to_infinity_and_beyond) | displays To infinity and beyond every after 2 seconds indefinitely | ./4-to_infinity_and_beyond
 [5-dont_stop_me_now ](./5-dont_stop_me_now ) | stops 4-to_infinity_and_beyond process | ./5-dont_stop_me_now 
-[6-create_local_variable](./6-create_local_variable) | creates a new local variable | ./6-create_local_variable
-[7-create_global_variable](./7-create_global_variable) | creates a new global variable | ./7-create_global_variable
-[8-true_knowledge](./8-true_knowledge) | prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line | ./8-true_knowledge
-[9-divide_and_rule](./9-divide_and_rule) | prints the result of POWER divided by DIVIDE, followed by a new line | ./9-divide_and_rule
-[10-love_exponent_breath](./10-love_exponent_breath) | displays the result of BREATH to the power LOVE | ./10-love_exponent_breath
-[11-binary_to_decimal](./11-binary_to_decimal) | converts a number from base 2 to base 10 | ./11-binary_to_decimal
-[12-combinations](./12-combinations) | prints all possible combinations of two letters, except oo | ./12-combinations
-[13-print_float](./13-print_float) | prints a number with two decimal places, followed by a new line | ./13-print_float
+[6-stop_me_if_you_can](./6-stop_me_if_you_can) | script that stops 4-to_infinity_and_beyond process | ./6-stop_me_if_you_can
+[7-highlander](./7-highlander) | displays To infinity and beyond indefinitely, With a sleep 2 in between each iteration, I am invincible!!! when receiving a SIGTERM signal | ./7-highlander
+[8-beheaded_process](./8-beheaded_process) | script that kills the process 7-highlander | ./8-beheaded_process
