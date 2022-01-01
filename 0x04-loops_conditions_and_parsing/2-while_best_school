@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-# displays Holberton School 10 times
+# displays Best Holberton School 10 times
 
 COUNTER=1
 while ((COUNTER<=10)); do
-	echo "Holberton School"
+	echo "Best School"
 	((COUNTER++))
 done
