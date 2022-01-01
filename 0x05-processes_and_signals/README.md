@@ -4,19 +4,19 @@
 
 This directory contains programs that demonstrate make use of the following linux commands.
 
-ps
-pgrep
-pkill
-kill
-exit
-trap
+1. ps <br>
+2. pgrep <br>
+3. pkill <br>
+4. kill <br>
+5. exit <br>
+6. trap <br>
 
 ## Programs in this Directory
 
 Program Name | Program Description | How to Run Program
 ------------ | ------------------- | ------------------
 [0-what-is-my-pid](./0-what-is-my-pid) | script that displays its own PID | ./0-what-is-my-pid
-[1-hello_you](./1-hello_you) | prints hello user, where user is the current Linux user | ./0-what-is-my-pid
+[1-list_your_processes](./1-list_your_processes) | displays a list of currently running processes | ./1-list_your_processes
 [2-path](./2-path) | adds /action to the PATH. /action should be the last directory the shell looks into when looking for a program | ./2-path
 [3-paths](./3-paths) | counts the number of directories in the PATH | ./3-paths
 [4-global_variables](./4-global_variables) | lists environment variables | ./4-global_variables
