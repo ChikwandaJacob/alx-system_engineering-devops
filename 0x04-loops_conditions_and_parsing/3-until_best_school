@@ -1,10 +1,8 @@
 #!/usr/bin/env bash
+# displays Holberton School 10 times
 
-# prints Best School x10 with the until loop
-i=0
-
-until [ $i -gt 9 ];
-do
-    echo "Best School"
-    i=$((i+1))
+COUNTER=0
+until [ "$COUNTER" -eq 10 ]; do
+	echo "Holberton School"
+	let COUNTER=COUNTER+1
 done
