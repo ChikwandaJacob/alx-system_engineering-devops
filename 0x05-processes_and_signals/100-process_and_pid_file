@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+trap "echo I hate the kill command" SIGTERM EXIT
+while true; do
+      echo "To infinity and beyond"
+      sleep 2
+done
